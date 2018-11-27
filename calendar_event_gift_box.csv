@@ -1,0 +1,6 @@
+Name,FileName,ExportName,TileWidth,TileHeight,TapSound,ClaimHUDExportName
+String,String,String,int,int,String,String
+CalendarEventGiftBox1,sc/hud.sc,gift_box_1,2,2,TreasureBox,giftbox_1_claim
+CalendarEventGiftBox2,sc/hud.sc,gift_box_2,2,2,TreasureBox,giftbox_2_claim
+CalendarEventGiftBox3,sc/hud.sc,gift_box_3,2,2,TreasureBox,giftbox_3_claim
+CalendarEventGiftBox4,sc/hud.sc,gift_box_4,2,2,TreasureBox,giftbox_4_claim
